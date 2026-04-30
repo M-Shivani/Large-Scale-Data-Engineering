@@ -1,6 +1,7 @@
 # Large-Scale-Data-Engineering
 
 Coursework files of LSDE
+
 Cloud computing and system set-up using AWS (Cloud Foundations)
 
 Part 1: A written task to design the architecture of a simple application on AWS cloud, where
